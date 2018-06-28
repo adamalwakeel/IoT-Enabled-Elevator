@@ -9,4 +9,4 @@ author:	adam alwakeel
 
 ## IoT Hub Feather HUZZAH Client application:
 
-![elevator](Elevator/elev.png )
+![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/elev.png)
