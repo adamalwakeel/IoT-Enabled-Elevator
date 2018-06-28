@@ -1,8 +1,7 @@
-
 ---
-services: IoT-Enabled-Elevator
-platforms: arduino
-author: Adam Alwakeel
+services:	elevator
+platforms:	arduino
+author:	adam alwakeel
 ---
 
 
