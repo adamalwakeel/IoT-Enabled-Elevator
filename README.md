@@ -15,8 +15,6 @@ However to communicate with other hardware typically requires knowledge of a ser
 
 ### I2C
 
-![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2012.58.43.png)
-
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2013.16.28.png)
 
 
