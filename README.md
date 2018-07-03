@@ -18,7 +18,7 @@ Push button 2 Turns on LED 2 The elevator reaches the second floor.
 
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2010.15.29.png)
 
-The elevator is the current second floor and elevator opens the elevator door.
+The elevator is the current second floor and elevator opens door.
 
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Sk%C3%A4rmavbild%202018-07-03%20kl.%2010.16.07.png)
 
