@@ -47,6 +47,9 @@ The elevator is the current second floor and elevator opens door.
 ![MQTT Protocol](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Mqtt.png)
 
 
+![MQTT Protocol](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2014.07.08.png)
+
+
 
 
 
