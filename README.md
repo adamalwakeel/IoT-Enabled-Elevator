@@ -9,7 +9,7 @@ author:	adam alwakeel
 
 ## IoT Hub Feather HUZZAH Client application:
 
-![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/elev.png)
+![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2010.13.39.png)
 
 ### In this article Connection between Arduino Nano, Feather HUZZAH ESP8266, and IoT Hub.
 
@@ -23,6 +23,8 @@ author:	adam alwakeel
  MQTT stands for MQ Telemetry Transport and it is a nice lightweight publish and subscribe system where you can publish and receive messages as a client. It is a simple messaging protocol, designed for constrained devices and with low-bandwidth. So, it’s the perfect solution for Internet of Things applications.
 
 ![MQTT Protocol](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Mqtt.png)
+
+
 
 
 
