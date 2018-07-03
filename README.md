@@ -9,6 +9,18 @@ author:	adam alwakeel
 
 ## IoT Hub Feather HUZZAH Client application:
 
+### Overview:
+Talking to hardware Adafruit Feather HUZZAH ESP8266 and The Arduino Nano  from your development board is when the real fun starts with a project.
+However to communicate with other hardware typically requires knowledge of a serial protocol like I2C. These protocol are the common language that chips and add-on boards talk so they can be connected to a development board. The board knows how to ‘speak’ these protocols and control the connected hardware. This guide explores i2c very common serial protocol.
+
+### I2C
+
+![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2012.58.43.png)
+
+![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2013.16.28.png)
+
+
+
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2010.13.39.png)
 
 Now the elevator on the floor enter zero number.
