@@ -11,6 +11,9 @@ author:	adam alwakeel
 
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2010.13.39.png)
 
+Now the elevator on the floor enter zero number.
+Push button 2 Turns on LED 2 The elevator reaches the second floor.
+
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Sk%C3%A4rmavbild%202018-07-03%20kl.%2010.15.13.png)
 
 ### In this article Connection between Arduino Nano, Feather HUZZAH ESP8266, and IoT Hub.
