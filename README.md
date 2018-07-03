@@ -11,6 +11,8 @@ author:	adam alwakeel
 
 ![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2010.13.39.png)
 
+![elevator](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Sk%C3%A4rmavbild%202018-07-03%20kl.%2010.15.13.png)
+
 ### In this article Connection between Arduino Nano, Feather HUZZAH ESP8266, and IoT Hub.
 
  ## What you do Connect Adafruit Feather HUZZAH ESP8266 to an IoT hub that you create. Then you run a sample application on ESP8266 The elevator send message to Azure IOT hub which floor now in real time!! . Finally, you send the message to your IoT hub. 
