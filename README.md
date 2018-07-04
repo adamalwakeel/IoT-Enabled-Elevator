@@ -61,6 +61,16 @@ A pre-built version of the Device Explorer application for Windows can be
 ![downloaded](https://github.com/Azure/azure-iot-sdk-csharp/archive/2018-6-20.zip) by clicking on this link: Downloads (Scroll down for SetupDeviceExplorer.msi). The default installation directory for this application is "C:\Program Files (x86)\Microsoft\DeviceExplorer". You might want to pin the DeviceExplorer.exe application to the taskbar for easier access.
 
 
+Now the elevator on the second floor 2 number.
+Push button Zero Turns on LED Zero The elevator reaches the entry.
+
+![explore](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-04%20kl.%2011.13.04.png)
+
+
+
+
+
+
 
 
 
