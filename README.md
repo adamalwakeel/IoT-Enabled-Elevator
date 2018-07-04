@@ -64,7 +64,7 @@ A pre-built version of the Device Explorer application for Windows can be
 Now the elevator on the second floor 2 number.
 Push button Zero Turns on LED Zero The elevator reaches the entry.
 
-![explore](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-04%20kl.%2011.13.04.png)
+![explore](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-06-30%20kl.%2023.25.39.png)
 
 
 
