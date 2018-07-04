@@ -52,7 +52,13 @@ The elevator is the current second floor and elevator opens door.
 ![MQTT Protocol](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-03%20kl.%2014.31.29.png)
 
 
+## Getting Device Explorer
 
+You can either download a pre-built version of Device Explorer or build it yourself.
+Download a pre-built version of the Device Explorer application
+
+A pre-built version of the Device Explorer application for Windows can be 
+![downloaded](https://github.com/Azure/azure-iot-sdk-csharp/archive/2018-6-20.zip) by clicking on this link: Downloads (Scroll down for SetupDeviceExplorer.msi). The default installation directory for this application is "C:\Program Files (x86)\Microsoft\DeviceExplorer". You might want to pin the DeviceExplorer.exe application to the taskbar for easier access.
 
 
 
