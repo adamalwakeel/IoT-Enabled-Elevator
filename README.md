@@ -66,6 +66,14 @@ Push button Zero Turns on LED Zero The elevator reaches the entry.
 
 ![explore](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-06-30%20kl.%2023.25.39.png)
 
+## How To Call Methode On Device.
+
+Send call methode from c2d Offline or Online to stop,start Elevator.
+
+![ofline](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-06-30%20kl.%2023.22.16.png)
+
+
+
 
 
 
