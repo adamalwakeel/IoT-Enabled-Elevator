@@ -74,7 +74,7 @@ Send call methode from c2d Offline or Online to stop,start Elevator.
 
 ## THe Elevator stopped !!
 
-![stop](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Ska%CC%88rmavbild%202018-07-05%20kl.%2013.54.25.png)
+![stop](https://github.com/adamalwakeel/IoT-Enabled-Elevator/blob/master/Skärmavbild%202018-07-05%20kl.%2013.54.25.png)
 
 
 
